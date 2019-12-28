@@ -1,0 +1,28 @@
+@import 'icon.css';
+@import 'fonts.css';
+
+:root {
+    --ps: 'product-sans';
+    --m: 'montserrat';
+    --yellow: #ffcb02;
+    --dark: #1e2020;
+    --dark__light: #282929;
+}
+*ul,p,a, h1, h2, h3, h4, h5, h6 {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+    font-family: var(--ps);
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
