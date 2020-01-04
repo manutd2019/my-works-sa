@@ -7,8 +7,9 @@
     --yellow: #ffcb02;
     --dark: #1e2020;
     --dark__light: #282929;
+    --white:#fff;
 }
-*ul,p,a, h1, h2, h3, h4, h5, h6 {
+* ul,li,p,a, h1, h2, h3, h4, h5, h6 {
     margin: 0;
     padding: 0;
     text-decoration: none;
